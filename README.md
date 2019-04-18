@@ -35,3 +35,7 @@ npm start
 ## Download Installer
 
 If you would rather just download and install the working executable here is the download [link](https://www.dropbox.com/s/9o5ahbe7pv1lb5a/Robinhood%20Installer.exe?dl=1).
+
+## Support
+
+If you enjoy this little app and want to support me heres my Robinhood referral link for a free stock [CLICK ME](https://share.robinhood.com/christs4432).
