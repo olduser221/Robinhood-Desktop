@@ -2,6 +2,8 @@
 
 This is a simple desktop client for the Robinhood stock trading app. It uses the web version of the app so make sure you have the web version available on your account.
 
+![Image of Robinhood Desktop](https://cdn.discordapp.com/attachments/519568224745160705/568501264028008458/e7237146a9f28ca0510acce41b4a65c4.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
