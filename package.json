@@ -1,0 +1,14 @@
+{
+  "name": "robinhood_desktop",
+  "version": "1.0.0",
+  "description": "A basic desktop client for Robinhood.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Christopher Soscia",
+  "devDependencies": {
+    "electron": "^4.1.4"
+  },
+  "dependencies": {}
+}
