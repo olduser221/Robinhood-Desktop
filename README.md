@@ -35,5 +35,3 @@ npm start
 ## Download Installer
 
 If you would rather just download and install the working executable here is the download [link](https://www.dropbox.com/s/9o5ahbe7pv1lb5a/Robinhood%20Installer.exe?dl=1).
-
-* [Download](https://github.com/electron/electron-quick-start) - The web framework used/template
